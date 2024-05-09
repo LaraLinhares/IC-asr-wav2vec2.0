@@ -1,0 +1,174 @@
+Separação de pastas de treino e teste com os seguintes sotaques:
+
+Total de frases: 16
+
+-Baiano
+
+Qtd. de áudios: 182
+
+Treino: 163
+Teste: 19 (Possibilidades: Frase 8 e 15 ou Frase 13 e 16 (melhor com carioca))
+
+Frase 1: 15 
+Frase 2: 14
+Frase 3: 13
+Frase 4: 11
+Frase 5: 12
+Frase 6: 12
+Frase 7: 11
+Frase 8: 10
+Frase 9: 12
+Frase 10: 11
+Frase 11: 11
+Frase 12: 11
+Frase 13: 10
+Frase 14: 11
+Frase 15: 9
+Frase 16: 9
+
+-Carioaca
+
+Qtd. de áudios: 82
+
+Treino: 73
+Teste: 9 (Frase 13 e 16)*Bateu com Baiano
+
+Frase 1: 7
+Frase 2: 6
+Frase 3: 6
+Frase 4: 5
+Frase 5: 5
+Frase 6: 4
+Frase 7: 5
+Frase 8: 5
+Frase 9: 5
+Frase 10: 5
+Frase 11: 5
+Frase 12: 5
+Frase 13: 5
+Frase 14: 5
+Frase 15: 5
+Frase 16: 4
+
+-Fluminence
+
+Qtd. de áudios: 114
+
+Treino: 102
+Teste: 12
+
+Frase 1: 8
+Frase 2: 7
+Frase 3: 9
+Frase 4: 7
+Frase 5: 7
+Frase 6: 8
+Frase 7: 7
+Frase 8: 6
+Frase 9: 7
+Frase 10: 8
+Frase 11: 8
+Frase 12: 8
+Frase 13: 7
+Frase 14: 7
+Frase 15: 6
+Frase 16: 4
+
+-Mineiro
+
+Qtd. de áudios: 148
+
+Treino: 
+Teste: 
+
+Frase 1: 12
+Frase 2: 12
+Frase 3: 12
+Frase 4: 12
+Frase 5: 12
+Frase 6: 10
+Frase 7: 9
+Frase 8: 10
+Frase 9: 9
+Frase 10: 7
+Frase 11: 8
+Frase 12: 8
+Frase 13: 8
+Frase 14: 7
+Frase 15: 7
+Frase 16: 5
+
+-Nordestino
+
+Qtd. de áudios: 359
+
+Treino: 
+Teste: 
+
+Frase 1: 28
+Frase 2: 28
+Frase 3: 25
+Frase 4: 24
+Frase 5: 25
+Frase 6: 24
+Frase 7: 20
+Frase 8: 23
+Frase 9: 24
+Frase 10: 24
+Frase 11: 21
+Frase 12: 21
+Frase 13: 19
+Frase 14: 18
+Frase 15: 18
+Frase 16: 17
+
+-Nortista
+
+Qtd. de áudios: 27 
+
+Treino: 
+Teste: 
+
+Frase 1: 2
+Frase 2: 3
+Frase 3: 3
+Frase 4: 3
+Frase 5: 1
+Frase 6: 6
+Frase 7: 1
+Frase 8: 1
+Frase 9: 1
+Frase 10: 2
+Frase 11: 1
+Frase 12: 1
+Frase 13: 2
+Frase 14: 2
+Frase 15: 2
+Frase 16: 0
+
+-Sulista
+
+Qtd. de áudios: 845
+
+Treino: 
+Teste: 
+
+Frase 1: 63
+Frase 2: 58
+Frase 3: 58
+Frase 4: 56
+Frase 5: 56
+Frase 6: 55
+Frase 7: 52
+Frase 8: 51
+Frase 9: 51
+Frase 10: 50
+Frase 11: 51
+Frase 12: 50
+Frase 13: 50
+Frase 14: 49
+Frase 15: 49
+Frase 16: 46
+
+
+Obs: será desconsiderado a divisão de gênero da base de dados
