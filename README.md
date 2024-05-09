@@ -20,7 +20,7 @@
 |
 ```
 
-## Autor
+## Autora
 - Lara Linhares
 
 ## Orientador
