@@ -1,0 +1,12 @@
+datasets
+pandas
+numpy
+num2fawords
+tqdm
+scikit-learn
+librosa
+transformers
+torchaudio
+librosa
+jiwer
+accelerate
